@@ -10,4 +10,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    void jagiGokul()
+    {
+        int i = 3847;
+        int j = 7483;
+    }
 }
