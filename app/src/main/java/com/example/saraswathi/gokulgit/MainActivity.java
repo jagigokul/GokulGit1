@@ -10,6 +10,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+    private void TEstpush(){
+        int i=1+3;
+
+    }
 
     void jagiGokul()
     {
